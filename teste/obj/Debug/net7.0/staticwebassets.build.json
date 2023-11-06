@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LshEWZCixILHggM+Kw61Ms/J17Y+8JFhu6mH1vIARLk=",
+  "Source": "CorporateElectronicCertificateGenerator",
+  "BasePath": "_content/CorporateElectronicCertificateGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
